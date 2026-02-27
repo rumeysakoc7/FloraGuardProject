@@ -97,33 +97,20 @@ git clone https://github.com/rumeysakoc7/FloraGuardProject.git
 
 ---
 ---
+---
 
 ## 📸 Ekran Görüntüleri
 
-### 🔐 Giriş Sayfası
-![Giriş](Screenshots/giris.png)
+Uygulama ekran görüntülerini görmek için aşağıdaki bağlantılara tıklayabilirsiniz:
+
+- 🔐 Giriş Sayfası → [Görüntüle](Screenshots/giris.png)
+- 🏠 Ana Menü → [Görüntüle](Screenshots/anamenu.png)
+- 📊 Sensör Verileri → [Görüntüle](Screenshots/sensor.png)
+- 🔬 Hastalık Tespiti → [Görüntüle](Screenshots/hastalik.png)
 
 ---
 
-### 🏠 Ana Menü
-![Ana Menü](Screenshots/anamenu.png)
+## 🔧 Donanım Görselleri
 
----
-
-### 📊 Sensör Verileri
-![Sensör](Screenshots/sensor.png)
-
----
-
-### 🔬 Hastalık Tespiti
-![Hastalık](Screenshots/hastalik.png)
-
----
-
-## 🔧 Donanım
-
-### Sulama Sistemi
-![Sistem](Screenshots/sistem.jpg)
-
-### Bitki Kurulumu
-![Bitki](Screenshots/Bitki.jpg)
+- Sulama Sistemi → [Görüntüle](Screenshots/sistem.jpg)
+- Bitki Kurulumu → [Görüntüle](Screenshots/Bitki.jpg)
