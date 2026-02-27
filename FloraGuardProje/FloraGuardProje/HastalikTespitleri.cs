@@ -25,7 +25,7 @@ namespace FloraGuardProje
         {
             InitializeComponent();
 
-            session = new InferenceSession("bitki_hastalik_modeli.onnx");
+            session = new InferenceSession("tomato_leaf_model.onnx");
 
             classNames = new string[]
             {
@@ -110,7 +110,7 @@ namespace FloraGuardProje
                 var inputTensor = new DenseTensor<float>(imageData, new[] { 1, 224, 224, 3 });
                 var inputs = new List<NamedOnnxValue>
         {
-            NamedOnnxValue.CreateFromTensor("input_layer", inputTensor)
+            NamedOnnxValue.CreateFromTensor("keras_tensor", inputTensor)
         };
 
                 using var results = session.Run(inputs);
