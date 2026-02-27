@@ -96,4 +96,34 @@ git clone https://github.com/rumeysakoc7/FloraGuardProject.git
 4. COM Port seçerek çalıştırın
 
 ---
+---
 
+## 📸 Ekran Görüntüleri
+
+### 🔐 Giriş Sayfası
+![Giriş](Screenshots/giris.png)
+
+---
+
+### 🏠 Ana Menü
+![Ana Menü](Screenshots/anamenu.png)
+
+---
+
+### 📊 Sensör Verileri
+![Sensör](Screenshots/sensor.png)
+
+---
+
+### 🔬 Hastalık Tespiti
+![Hastalık](Screenshots/hastalik.png)
+
+---
+
+## 🔧 Donanım
+
+### Sulama Sistemi
+![Sistem](Screenshots/sistem.jpg)
+
+### Bitki Kurulumu
+![Bitki](Screenshots/Bitki.jpg)
