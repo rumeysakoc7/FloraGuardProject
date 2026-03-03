@@ -1,4 +1,4 @@
-# FloraGuard 🌱
+# FloraGuard 
 
 FloraGuard, bitki sağlığını izleyen ve otomatik/manuel sulama yapan akıllı bir bitki takip sistemidir.
 
@@ -10,9 +10,9 @@ Sistem, toprak nemini ölçer, sulamayı kontrol eder, bitki hastalıklarını t
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
-### 🌿 Bitki Takibi
+###  Bitki Takibi
 
 - Toprak nem sensörü ile nem ölçümü  
 - Gerçek zamanlı nem takibi  
@@ -20,16 +20,16 @@ Sistem, toprak nemini ölçer, sulamayı kontrol eder, bitki hastalıklarını t
 - Nem verilerinden rapor oluşturma  
 - Grafik ile nem verisi gösterimi  
 
-### 💧 Sulama Sistemi
+###  Sulama Sistemi
 
 - Otomatik sulama sistemi  
 - Manuel sulama kontrolü  
 - Pompa açma / kapama kontrolü  
 - Seri port üzerinden Arduino kontrolü  
 
-### 🌱 Yapay Zeka Özellikleri
+###  Yapay Zeka Özellikleri
 
-#### 🔬 Bitki Hastalığı Tespiti
+####  Bitki Hastalığı Tespiti
 
 - Bitki yapraklarının fotoğrafı kullanılarak hastalık tespiti yapılır  
 - Yapay zeka modeli **tarafımdan eğitilmiştir**  
@@ -40,7 +40,7 @@ Sistem, toprak nemini ölçer, sulamayı kontrol eder, bitki hastalıklarını t
 - Hastalık sonucu **mail olarak kullanıcıya gönderilir**  
 - İlaçlama işlemi **manuel olarak yapılmaktadır**
 
-#### 🤖 Yapay Zeka Bitki Asistanı
+####  Yapay Zeka Bitki Asistanı
 
 - Yapay zekaya bitkiler hakkında soru sorulabilir  
 - Hastalıklar hakkında bilgi alınabilir  
@@ -48,7 +48,7 @@ Sistem, toprak nemini ölçer, sulamayı kontrol eder, bitki hastalıklarını t
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - C# (.NET Windows Forms)  
 - Arduino (ESP8266)  
@@ -59,7 +59,7 @@ Sistem, toprak nemini ölçer, sulamayı kontrol eder, bitki hastalıklarını t
 
 ---
 
-## 🔧 Donanım Bileşenleri
+##  Donanım Bileşenleri
 
 - ESP8266 Mikrodenetleyici  
 - Toprak Nem Sensörü  
@@ -72,7 +72,7 @@ Donanım bileşenleri Arduino kodları ile kontrol edilmekte ve C# uygulaması i
 
 ---
 
-## 📂 Proje Yapısı
+##  Proje Yapısı
 
 - **FloraGuardProje** → C# masaüstü uygulaması  
 - **FloraGuardArduino** → Arduino kodları  
@@ -82,7 +82,7 @@ Donanım bileşenleri Arduino kodları ile kontrol edilmekte ve C# uygulaması i
 
 ---
 
-## ⚙️ Kurulum
+##  Kurulum
 
 1. Projeyi indirin
 
@@ -99,14 +99,14 @@ git clone https://github.com/rumeysakoc7/FloraGuardProject.git
 ---
 ---
 
-## 📸 Ekran Görüntüleri
+##  Ekran Görüntüleri
 
 Uygulama ekran görüntülerini görmek için aşağıdaki bağlantılara tıklayabilirsiniz:
 
-- 🔐 Giriş Sayfası → [Görüntüle](Screenshots/giris.png)
-- 🏠 Ana Menü → [Görüntüle](Screenshots/anamenu.png)
-- 📊 Sensör Verileri → [Görüntüle](Screenshots/sensor.png)
-- 🔬 Hastalık Tespiti → [Görüntüle](Screenshots/hastalik.png)
+-  Giriş Sayfası → [Görüntüle](Screenshots/giris.png)
+-  Ana Menü → [Görüntüle](Screenshots/anamenu.png)
+-  Sensör Verileri → [Görüntüle](Screenshots/sensor.png)
+-  Hastalık Tespiti → [Görüntüle](Screenshots/hastalik.png)
 
 ---
 
